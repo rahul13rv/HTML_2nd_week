@@ -1,0 +1,23 @@
+Ques. Write a short note on tags, elements, and attributes along with relevant examples ?
+
+        Ans: In HTML,Tags define elements, which represent parts of a webpage. Attributes provide additional information or instructions. All work together in HTML.
+        
+        Tags:
+        
+        
+        tags are used to structure and define the elements of a web page. They provide meaning and formatting instructions to browsers. 
+        
+        Example: <p>I am happy to learn Web Development.</p>. In this example, the opening tag is <p> and the closing tag is </p>. 
+        
+        Elements:
+        
+        HTML elements define webpage parts like headings, paragraphs, images, and links. They structure and provide meaning to content.
+        
+        Example: <p>I am happy to learn Web Development.</p>. In this example, the opening tag is <p> and the closing tag is </p>. The content along with the tags is the paragraph element.
+        
+        Attributes:
+        
+        In HTML, Attributes in HTML modify element behavior or appearance. They are specified within tags and consist of name-value pairs.
+        
+        Example: <a href="https://google.com" >Go To Google</a>. In this example, the a element is used to create a hyperlink. The href attribute specifies the URL that the hyperlink points to. The attribute values are enclosed in quotes.
+        
